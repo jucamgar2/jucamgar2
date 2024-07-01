@@ -29,4 +29,6 @@ The project includes a report as documentation where important aspects and decis
 
 ### [Click here to try it](http://cupes.es)
 
+## [PoryectoIA-Metodo-LIME](https://github.com/jucamgar2/PoryectoIA-Metodo-LIME) 
 
+Small AI project where two predictive black box models are trained and an explainability method (LIME) is developed, then this method is used to explain the predictive models and finally different aspects of the explainability algorithm are evaluated.
