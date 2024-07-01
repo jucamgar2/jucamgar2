@@ -7,6 +7,14 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jucamgar2&theme=default)
 
+# My common code languaje
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jucamgar2&theme=default)
+
+# My stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jucamgar2&theme=default)
+
 # These are some of my projects
 
 ## [CUPES-TFG](https://github.com/jucamgar2/CUPES-TFG)
