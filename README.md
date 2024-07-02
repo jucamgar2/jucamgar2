@@ -32,3 +32,14 @@ The project includes a report as documentation where important aspects and decis
 ## [PoryectoIA-Metodo-LIME](https://github.com/jucamgar2/PoryectoIA-Metodo-LIME) 
 
 Small AI project where two predictive black box models are trained and an explainability method (LIME) is developed, then this method is used to explain the predictive models and finally different aspects of the explainability algorithm are evaluated.
+
+## [Motos Para Todos](https://github.com/jucamgar2/MotosParaTodos)
+
+![image](https://github.com/jucamgar2/jucamgar2/assets/72499336/b84d464d-d843-4c47-b27d-aa3ba471eb54)
+
+
+Motos Para Todos is a project developed with Python 3.10.11 and Dajngo 4.2.7 that deals with a store for the sale of motorcycles and their components, also in the store you can buy motorcycles with custom components and includes an administration module.
+
+This project includes documentation and has been managed following PMBOK 5.
+
+### [Click here to try it](https://alecamgal1.pythonanywhere.com/)
