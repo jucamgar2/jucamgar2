@@ -33,6 +33,10 @@ The project includes a report as documentation where important aspects and decis
 
 Small AI project where two predictive black box models are trained and an explainability method (LIME) is developed, then this method is used to explain the predictive models and finally different aspects of the explainability algorithm are evaluated.
 
+Collaborative project carried out by:
+**jucamgar2**: Campos Garrido, Juan Jesús
+**antcardia**: Carretero Díaz, Antonio	
+
 ## [Motos Para Todos](https://github.com/jucamgar2/MotosParaTodos)
 
 ![image](https://github.com/jucamgar2/jucamgar2/assets/72499336/b84d464d-d843-4c47-b27d-aa3ba471eb54)
@@ -42,4 +46,34 @@ Motos Para Todos is a project developed with Python 3.10.11 and Dajngo 4.2.7 tha
 
 This project includes documentation and has been managed following PMBOK 5.
 
+Collaborative project carried out by:
+**Alejandrocg024**: Campano Galán, Alejandro	
+**jucamgar2**: Campos Garrido, Juan Jesús
+**antcardia**: Carretero Díaz, Antonio	
+**davcorrom**: Cortabarra Romero, David	
+**PabloMera6**: Mera Gómez, Pablo	
+
+
 ### [Click here to try it](https://alecamgal1.pythonanywhere.com/)
+
+## [SHAR3D](https://github.com/jucamgar2/SHAR3D)
+
+![image](https://github.com/jucamgar2/jucamgar2/assets/72499336/1251d6bb-7a36-4f4f-b433-d54cfe447c8d)
+
+SHAR3D is a project for a matchmaking service made with Django and React, in the application users can sell or buy their 3d printing related products, request prints from other people, upload their creations to the community and many other functionalities.
+
+The project includes all its documentation in this [knowledge base](https://knowledge-base-orpin.vercel.app/). [Here is the source code of the knowledge base.](https://github.com/G12-ISPP/Knowledge-base)
+
+Collaborative project carried out by:
+**carloosbaquero**: Baquero Villena, Carlos	
+**Alejandrocg024**: Campano Galán, Alejandro	
+**jucamgar2**: Campos Garrido, Juan Jesús
+**antcardia**: Carretero Díaz, Antonio	
+**davcorrom**: Cortabarra Romero, David	
+**mariaescalante**: Escalante Ramos, María
+**diegarlin**: García Linares, Diego	
+**alegarsan11**: García Sánchez-Hermosilla, Alejandro	
+**ursgarsan**: Garrucho Sánchez, Úrsula
+**abloMera6**: Mera Gómez, Pablo	
+**davra02**: Reyes Alés, David	
+**alesanfe:** Santiago Félix, Alejandro
