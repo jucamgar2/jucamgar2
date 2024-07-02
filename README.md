@@ -77,3 +77,28 @@ Collaborative project carried out by:
 **abloMera6**: Mera Gómez, Pablo	
 **davra02**: Reyes Alés, David	
 **alesanfe:** Santiago Félix, Alejandro
+
+## [PAGEPAL](https://github.com/jucamgar2/PAGEPAL)
+
+![image](https://github.com/jucamgar2/jucamgar2/assets/72499336/d90435e4-a819-4255-ac66-8674f8d91872)
+
+
+PAGEPAL is a small application developed with django and mongoengine designed to manage a small library where users can reserve books.
+
+Collaborative project carried out by:
+**jucamgar2**: Campos Garrido, Juan Jesús
+**antcardia**: Carretero Díaz, Antonio	
+
+## [IDUSMARTII](https://github.com/jucamgar2/IDUSMARTII)
+
+![image](https://github.com/jucamgar2/jucamgar2/assets/72499336/6649ca7f-51fb-4345-98ed-3478303ec8c5)
+
+IDUSMARTII is an application made with SpringBoot where you can play the board game IDUS MARTII, this application supports online play in a 5 to 8 players game.
+
+Collaborative project carried out by:
+**Alejandrocg024**: Campano Galán, Alejandro	
+**jucamgar2**: Campos Garrido, Juan Jesús
+**antcardia**: Carretero Díaz, Antonio	
+**PabloMera6**: Mera Gómez, Pablo	
+**Domi-ATLAS**: Pizarro López, Eduardo
+**davra02**: Reyes Alés, David	
