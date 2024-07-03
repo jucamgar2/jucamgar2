@@ -34,7 +34,9 @@ The project includes a report as documentation where important aspects and decis
 Small AI project where two predictive black box models are trained and an explainability method (LIME) is developed, then this method is used to explain the predictive models and finally different aspects of the explainability algorithm are evaluated.
 
 Collaborative project carried out by:
+
 **jucamgar2**: Campos Garrido, Juan Jesús
+
 **antcardia**: Carretero Díaz, Antonio	
 
 ## [Motos Para Todos](https://github.com/jucamgar2/MotosParaTodos)
@@ -47,10 +49,15 @@ Motos Para Todos is a project developed with Python 3.10.11 and Dajngo 4.2.7 tha
 This project includes documentation and has been managed following PMBOK 5.
 
 Collaborative project carried out by:
+
 **Alejandrocg024**: Campano Galán, Alejandro	
+
 **jucamgar2**: Campos Garrido, Juan Jesús
+
 **antcardia**: Carretero Díaz, Antonio	
+
 **davcorrom**: Cortabarra Romero, David	
+
 **PabloMera6**: Mera Gómez, Pablo	
 
 
@@ -65,28 +72,41 @@ SHAR3D is a project for a matchmaking service made with Django and React, in the
 The project includes all its documentation in this [knowledge base](https://knowledge-base-orpin.vercel.app/). [Here is the source code of the knowledge base.](https://github.com/G12-ISPP/Knowledge-base)
 
 Collaborative project carried out by:
+
 **carloosbaquero**: Baquero Villena, Carlos	
+
 **Alejandrocg024**: Campano Galán, Alejandro	
+
 **jucamgar2**: Campos Garrido, Juan Jesús
+
 **antcardia**: Carretero Díaz, Antonio	
+
 **davcorrom**: Cortabarra Romero, David	
+
 **mariaescalante**: Escalante Ramos, María
+
 **diegarlin**: García Linares, Diego	
+
 **alegarsan11**: García Sánchez-Hermosilla, Alejandro	
+
 **ursgarsan**: Garrucho Sánchez, Úrsula
+
 **abloMera6**: Mera Gómez, Pablo	
+
 **davra02**: Reyes Alés, David	
+
 **alesanfe:** Santiago Félix, Alejandro
 
 ## [PAGEPAL](https://github.com/jucamgar2/PAGEPAL)
 
 ![image](https://github.com/jucamgar2/jucamgar2/assets/72499336/d90435e4-a819-4255-ac66-8674f8d91872)
 
-
 PAGEPAL is a small application developed with django and mongoengine designed to manage a small library where users can reserve books.
 
 Collaborative project carried out by:
+
 **jucamgar2**: Campos Garrido, Juan Jesús
+
 **antcardia**: Carretero Díaz, Antonio	
 
 ## [IDUSMARTII](https://github.com/jucamgar2/IDUSMARTII)
@@ -96,9 +116,15 @@ Collaborative project carried out by:
 IDUSMARTII is an application made with SpringBoot where you can play the board game IDUS MARTII, this application supports online play in a 5 to 8 players game.
 
 Collaborative project carried out by:
+
 **Alejandrocg024**: Campano Galán, Alejandro	
+
 **jucamgar2**: Campos Garrido, Juan Jesús
+
 **antcardia**: Carretero Díaz, Antonio	
+
 **PabloMera6**: Mera Gómez, Pablo	
+
 **Domi-ATLAS**: Pizarro López, Eduardo
+
 **davra02**: Reyes Alés, David	
