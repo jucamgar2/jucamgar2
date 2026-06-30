@@ -3,7 +3,7 @@
 # [Here you have my portfolio](https://jucamgar2-portfolio.vercel.app/)
 
 # This are my Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,js,react,html,css,docker,git,jenkins,linux,mongodb,mysql,nodejs,octave,postgres,aws,sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,js,react,html,css,docker,git,jenkins,linux,mongodb,mysql,nodejs,octave,postgres,aws,sklearn,tensorflow,astro,tailwind)](https://skillicons.dev)
 
 # This are my contributions in the last year
 
@@ -104,7 +104,7 @@ Collaborative project carried out by:
 
   </tr>
   <tr>
-  <td colspan="2">
+  <td>
 
 ### [SHAR3D](https://github.com/jucamgar2/SHAR3D)
 
@@ -141,7 +141,21 @@ Collaborative project carried out by:
 **alesanfe:** Santiago Félix, Alejandro
 
 </td>
+
+<td>
+  
+### [Discipline Tracker](https://github.com/jucamgar2/DisciplineTracker)
+<img width="521" height="384" alt="Captura de pantalla 2026-06-29 133924" src="https://github.com/user-attachments/assets/79c4ad9d-aeba-45b8-bfd1-24cfa95fe17e" />
+
+A minimalist, mobile-first web application where users can keep track of their habits.
+
+This application has been developed using React, Webflux and a MongoDB database
+
+### [Click here to try it](https://discipline-tracker-inky-eight.vercel.app/login)
+
+</td>
     
 
   </tr>
+  
 </table>
